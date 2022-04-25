@@ -5,3 +5,4 @@
 # 2022-03-10: Fix issue with form validation
 # 2022-03-18: Improve pagination
 # 2022-04-13: Add post detail view
+# 2022-04-25: Implement search functionality
