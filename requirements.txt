@@ -1,3 +1,4 @@
 # requirements.txt
 # 2022-04-14: Update urls.py for new routes
 # 2022-04-20: Add post detail view
+# 2022-04-29: Fix typo in README
