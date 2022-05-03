@@ -7,3 +7,4 @@
 # 2022-04-13: Add post detail view
 # 2022-04-25: Implement search functionality
 # 2022-04-26: Improve homepage UI
+# 2022-05-03: Implement search functionality
