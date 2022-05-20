@@ -4,3 +4,4 @@
 # 2022-04-25: Improve test coverage
 # 2022-05-03: Improve test coverage
 # 2022-05-18: Fix issue with form validation
+# 2022-05-20: Optimize image upload
