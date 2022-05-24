@@ -6,3 +6,4 @@
 # 2022-04-22: Improve pagination
 # 2022-04-28: Fix bug in comment system
 # 2022-05-10: Optimize image upload
+# 2022-05-24: Implement search functionality
