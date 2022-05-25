@@ -4,3 +4,4 @@
 # 2022-04-29: Fix typo in README
 # 2022-05-13: Update static files
 # 2022-05-18: Update requirements.txt
+# 2022-05-25: Add deployment instructions
