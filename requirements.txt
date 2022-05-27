@@ -5,3 +5,4 @@
 # 2022-05-13: Update static files
 # 2022-05-18: Update requirements.txt
 # 2022-05-25: Add deployment instructions
+# 2022-05-27: Update static files
