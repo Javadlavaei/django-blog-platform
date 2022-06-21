@@ -7,3 +7,4 @@
 # 2022-05-12: Fix issue with form validation
 # 2022-06-10: Improve test coverage
 # 2022-06-14: Update settings for production
+# 2022-06-21: Update static files
