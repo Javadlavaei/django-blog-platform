@@ -7,3 +7,4 @@
 # 2022-05-20: Optimize image upload
 # 2022-06-23: Optimize image upload
 # 2022-07-06: Add deployment instructions
+# 2022-07-07: Optimize image upload
