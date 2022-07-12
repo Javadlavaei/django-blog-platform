@@ -5,3 +5,4 @@
 # 2022-05-06: Add deployment instructions
 # 2022-05-30: Update requirements.txt
 # 2022-06-07: Add deployment instructions
+# 2022-07-12: Update settings for production
