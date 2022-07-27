@@ -9,3 +9,4 @@
 # 2022-06-14: Update settings for production
 # 2022-06-21: Update static files
 # 2022-07-21: Update requirements.txt
+# 2022-07-27: Fix typo in README
