@@ -9,3 +9,4 @@
 # 2022-05-24: Implement search functionality
 # 2022-07-13: Improve homepage UI
 # 2022-07-25: Implement blog post model
+# 2022-08-02: Fix typo in README
