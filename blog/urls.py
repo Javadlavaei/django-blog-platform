@@ -9,3 +9,4 @@
 # 2022-04-26: Improve homepage UI
 # 2022-05-03: Implement search functionality
 # 2022-05-13: Refactor template structure
+# 2022-08-05: Improve test coverage
