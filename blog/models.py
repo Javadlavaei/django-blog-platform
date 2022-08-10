@@ -11,3 +11,4 @@
 # 2022-07-21: Update requirements.txt
 # 2022-07-27: Fix typo in README
 # 2022-08-02: Improve pagination
+# 2022-08-10: Fix bug in comment system
