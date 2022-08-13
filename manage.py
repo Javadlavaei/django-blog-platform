@@ -7,3 +7,4 @@
 # 2022-06-07: Add deployment instructions
 # 2022-07-12: Update settings for production
 # 2022-08-12: Refactor models.py
+# 2022-08-13: Update requirements.txt
