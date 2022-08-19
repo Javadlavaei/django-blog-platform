@@ -8,3 +8,4 @@
 # 2022-07-12: Update settings for production
 # 2022-08-12: Refactor models.py
 # 2022-08-13: Update requirements.txt
+# 2022-08-19: Improve test coverage
