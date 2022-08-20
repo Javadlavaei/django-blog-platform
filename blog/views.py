@@ -9,3 +9,4 @@
 # 2022-07-06: Add deployment instructions
 # 2022-07-07: Optimize image upload
 # 2022-07-30: Update static files
+# 2022-08-20: Add post detail view
