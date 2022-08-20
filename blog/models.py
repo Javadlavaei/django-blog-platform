@@ -12,3 +12,4 @@
 # 2022-07-27: Fix typo in README
 # 2022-08-02: Improve pagination
 # 2022-08-10: Fix bug in comment system
+# 2022-08-20: Optimize image upload
