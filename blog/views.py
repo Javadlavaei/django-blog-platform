@@ -10,3 +10,4 @@
 # 2022-07-07: Optimize image upload
 # 2022-07-30: Update static files
 # 2022-08-20: Add post detail view
+# 2022-08-23: Refactor template structure
