@@ -9,3 +9,4 @@
 # 2022-08-12: Refactor models.py
 # 2022-08-13: Update requirements.txt
 # 2022-08-19: Improve test coverage
+# 2022-08-25: Update static files
