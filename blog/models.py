@@ -14,3 +14,4 @@
 # 2022-08-10: Fix bug in comment system
 # 2022-08-20: Optimize image upload
 # 2022-08-24: Update requirements.txt
+# 2022-08-25: Update static files
