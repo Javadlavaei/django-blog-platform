@@ -14,3 +14,4 @@
 # 2022-08-05: Add deployment instructions
 # 2022-08-14: Implement search functionality
 # 2022-09-02: Update urls.py for new routes
+# 2022-09-02: Fix typo in README
