@@ -15,3 +15,4 @@
 # 2022-08-14: Implement search functionality
 # 2022-09-02: Update urls.py for new routes
 # 2022-09-02: Fix typo in README
+# 2022-09-05: Fix issue with form validation
