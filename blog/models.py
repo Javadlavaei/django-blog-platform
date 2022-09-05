@@ -15,3 +15,4 @@
 # 2022-08-20: Optimize image upload
 # 2022-08-24: Update requirements.txt
 # 2022-08-25: Update static files
+# 2022-09-05: Fix issue with form validation
