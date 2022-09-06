@@ -12,3 +12,4 @@
 # 2022-08-25: Update static files
 # 2022-09-01: Add post detail view
 # 2022-09-05: Improve test coverage
+# 2022-09-06: Add user profile page
