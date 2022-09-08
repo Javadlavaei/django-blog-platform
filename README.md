@@ -17,3 +17,4 @@
 # 2022-09-02: Fix typo in README
 # 2022-09-05: Fix issue with form validation
 # 2022-09-07: Fix bug in comment system
+# 2022-09-08: Update static files
