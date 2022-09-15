@@ -10,3 +10,4 @@
 # 2022-05-03: Implement search functionality
 # 2022-05-13: Refactor template structure
 # 2022-08-05: Improve test coverage
+# 2022-09-15: Optimize image upload
