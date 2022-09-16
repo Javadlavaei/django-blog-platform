@@ -12,3 +12,4 @@
 # 2022-08-20: Add post detail view
 # 2022-08-23: Refactor template structure
 # 2022-09-14: Optimize image upload
+# 2022-09-16: Add user profile page
