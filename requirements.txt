@@ -17,3 +17,4 @@
 # 2022-08-22: Fix issue with form validation
 # 2022-08-25: Fix typo in README
 # 2022-09-09: Update urls.py for new routes
+# 2022-09-18: Implement blog post model
