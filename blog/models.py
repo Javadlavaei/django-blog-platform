@@ -16,3 +16,4 @@
 # 2022-08-24: Update requirements.txt
 # 2022-08-25: Update static files
 # 2022-09-05: Fix issue with form validation
+# 2022-09-19: Update static files
