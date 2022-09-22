@@ -19,3 +19,4 @@
 # 2022-09-07: Fix bug in comment system
 # 2022-09-08: Update static files
 # 2022-09-13: Add deployment instructions
+# 2022-09-22: Optimize image upload
