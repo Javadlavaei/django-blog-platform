@@ -11,3 +11,4 @@
 # 2022-05-13: Refactor template structure
 # 2022-08-05: Improve test coverage
 # 2022-09-15: Optimize image upload
+# 2022-09-22: Update urls.py for new routes
