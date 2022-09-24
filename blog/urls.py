@@ -12,3 +12,4 @@
 # 2022-08-05: Improve test coverage
 # 2022-09-15: Optimize image upload
 # 2022-09-22: Update urls.py for new routes
+# 2022-09-24: Add user authentication
