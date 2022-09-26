@@ -13,3 +13,4 @@
 # 2022-09-15: Optimize image upload
 # 2022-09-22: Update urls.py for new routes
 # 2022-09-24: Add user authentication
+# 2022-09-26: Update requirements.txt
