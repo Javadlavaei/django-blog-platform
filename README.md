@@ -20,3 +20,4 @@
 # 2022-09-08: Update static files
 # 2022-09-13: Add deployment instructions
 # 2022-09-22: Optimize image upload
+# 2022-09-26: Add user authentication
