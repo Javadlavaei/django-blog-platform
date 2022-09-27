@@ -20,3 +20,4 @@
 # 2022-09-18: Implement blog post model
 # 2022-09-20: Fix issue with form validation
 # 2022-09-27: Implement search functionality
+# 2022-09-27: Optimize image upload
