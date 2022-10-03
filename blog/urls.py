@@ -14,3 +14,4 @@
 # 2022-09-22: Update urls.py for new routes
 # 2022-09-24: Add user authentication
 # 2022-09-26: Update requirements.txt
+# 2022-10-03: Update urls.py for new routes
