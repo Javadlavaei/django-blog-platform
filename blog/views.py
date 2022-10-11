@@ -14,3 +14,4 @@
 # 2022-09-14: Optimize image upload
 # 2022-09-16: Add user profile page
 # 2022-09-18: Add deployment instructions
+# 2022-10-11: Fix typo in README
