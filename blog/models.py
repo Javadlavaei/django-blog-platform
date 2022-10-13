@@ -18,3 +18,4 @@
 # 2022-09-05: Fix issue with form validation
 # 2022-09-19: Update static files
 # 2022-09-26: Refactor template structure
+# 2022-10-13: Fix issue with form validation
