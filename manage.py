@@ -16,3 +16,4 @@
 # 2022-09-15: Improve homepage UI
 # 2022-10-17: Improve test coverage
 # 2022-10-19: Add user profile page
+# 2022-10-20: Add admin customization
