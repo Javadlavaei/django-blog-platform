@@ -21,3 +21,4 @@
 # 2022-10-13: Fix issue with form validation
 # 2022-10-14: Refactor models.py
 # 2022-10-30: Optimize image upload
+# 2022-10-30: Add admin customization
