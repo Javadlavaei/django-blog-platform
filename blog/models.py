@@ -20,3 +20,4 @@
 # 2022-09-26: Refactor template structure
 # 2022-10-13: Fix issue with form validation
 # 2022-10-14: Refactor models.py
+# 2022-10-30: Optimize image upload
