@@ -26,3 +26,4 @@
 # 2022-10-07: Add deployment instructions
 # 2022-10-17: Add user authentication
 # 2022-11-02: Add deployment instructions
+# 2022-11-04: Improve homepage UI
