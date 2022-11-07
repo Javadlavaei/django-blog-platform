@@ -16,3 +16,4 @@
 # 2022-09-18: Add deployment instructions
 # 2022-10-11: Fix typo in README
 # 2022-10-19: Optimize image upload
+# 2022-11-07: Refactor models.py
