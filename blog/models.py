@@ -23,3 +23,4 @@
 # 2022-10-30: Optimize image upload
 # 2022-10-30: Add admin customization
 # 2022-11-09: Update static files
+# 2022-11-14: Refactor template structure
