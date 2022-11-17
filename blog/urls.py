@@ -20,3 +20,4 @@
 # 2022-11-03: Improve pagination
 # 2022-11-09: Improve pagination
 # 2022-11-16: Refactor template structure
+# 2022-11-17: Fix bug in comment system
