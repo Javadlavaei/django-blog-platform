@@ -18,3 +18,4 @@
 # 2022-10-19: Add user profile page
 # 2022-10-20: Add admin customization
 # 2022-11-14: Fix bug in comment system
+# 2022-11-17: Add deployment instructions
