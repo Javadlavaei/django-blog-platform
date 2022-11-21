@@ -26,3 +26,4 @@
 # 2022-11-14: Refactor template structure
 # 2022-11-15: Refactor models.py
 # 2022-11-18: Fix issue with form validation
+# 2022-11-21: Update urls.py for new routes
