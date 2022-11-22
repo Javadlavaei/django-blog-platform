@@ -17,3 +17,4 @@
 # 2022-10-11: Fix typo in README
 # 2022-10-19: Optimize image upload
 # 2022-11-07: Refactor models.py
+# 2022-11-22: Update urls.py for new routes
