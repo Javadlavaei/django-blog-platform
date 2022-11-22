@@ -21,3 +21,4 @@
 # 2022-11-09: Improve pagination
 # 2022-11-16: Refactor template structure
 # 2022-11-17: Fix bug in comment system
+# 2022-11-22: Update urls.py for new routes
