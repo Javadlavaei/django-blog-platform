@@ -26,3 +26,4 @@
 # 2022-11-14: Implement search functionality
 # 2022-11-16: Optimize image upload
 # 2022-11-22: Improve pagination
+# 2022-11-24: Fix issue with form validation
