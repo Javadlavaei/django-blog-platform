@@ -29,3 +29,4 @@
 # 2022-11-04: Improve homepage UI
 # 2022-11-17: Implement search functionality
 # 2022-11-28: Implement search functionality
+# 2022-11-30: Fix bug in comment system
