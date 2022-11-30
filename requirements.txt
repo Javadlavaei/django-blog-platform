@@ -27,3 +27,4 @@
 # 2022-11-16: Optimize image upload
 # 2022-11-22: Improve pagination
 # 2022-11-24: Fix issue with form validation
+# 2022-11-30: Fix issue with form validation
