@@ -20,3 +20,4 @@
 # 2022-11-14: Fix bug in comment system
 # 2022-11-17: Add deployment instructions
 # 2022-12-06: Update static files
+# 2022-12-08: Improve pagination
