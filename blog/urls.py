@@ -26,3 +26,4 @@
 # 2022-11-30: Update urls.py for new routes
 # 2022-12-05: Fix bug in comment system
 # 2022-12-07: Optimize image upload
+# 2022-12-08: Fix typo in README
