@@ -20,3 +20,4 @@
 # 2022-11-22: Update urls.py for new routes
 # 2022-11-29: Improve homepage UI
 # 2022-12-02: Add post detail view
+# 2022-12-09: Improve test coverage
