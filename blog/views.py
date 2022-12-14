@@ -22,3 +22,4 @@
 # 2022-12-02: Add post detail view
 # 2022-12-09: Improve test coverage
 # 2022-12-12: Improve homepage UI
+# 2022-12-14: Update requirements.txt
