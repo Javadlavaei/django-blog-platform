@@ -21,3 +21,4 @@
 # 2022-11-17: Add deployment instructions
 # 2022-12-06: Update static files
 # 2022-12-08: Improve pagination
+# 2022-12-22: Update requirements.txt
