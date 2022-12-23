@@ -28,3 +28,4 @@
 # 2022-12-07: Optimize image upload
 # 2022-12-08: Fix typo in README
 # 2022-12-21: Fix issue with form validation
+# 2022-12-23: Refactor template structure
