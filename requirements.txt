@@ -29,3 +29,4 @@
 # 2022-11-24: Fix issue with form validation
 # 2022-11-30: Fix issue with form validation
 # 2022-12-22: Implement blog post model
+# 2022-12-26: Add user authentication
