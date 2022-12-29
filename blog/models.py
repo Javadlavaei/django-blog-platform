@@ -30,3 +30,4 @@
 # 2022-12-13: Update urls.py for new routes
 # 2022-12-26: Update static files
 # 2022-12-28: Fix issue with form validation
+# 2022-12-29: Fix typo in README
