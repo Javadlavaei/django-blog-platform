@@ -32,3 +32,4 @@
 # 2022-12-26: Add user authentication
 # 2022-12-28: Improve homepage UI
 # 2022-12-30: Update urls.py for new routes
+# 2023-01-10: Improve test coverage
