@@ -32,3 +32,4 @@
 # 2022-12-28: Fix issue with form validation
 # 2022-12-29: Fix typo in README
 # 2023-01-09: Add admin customization
+# 2023-01-10: Add user authentication
