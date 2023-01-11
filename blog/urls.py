@@ -30,3 +30,4 @@
 # 2022-12-21: Fix issue with form validation
 # 2022-12-23: Refactor template structure
 # 2023-01-11: Optimize image upload
+# 2023-01-11: Update static files
