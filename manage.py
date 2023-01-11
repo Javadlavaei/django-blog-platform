@@ -22,3 +22,4 @@
 # 2022-12-06: Update static files
 # 2022-12-08: Improve pagination
 # 2022-12-22: Update requirements.txt
+# 2023-01-11: Fix typo in README
