@@ -34,3 +34,4 @@
 # 2023-01-04: Add admin customization
 # 2023-01-05: Implement search functionality
 # 2023-01-09: Update settings for production
+# 2023-01-14: Update static files
