@@ -33,3 +33,4 @@
 # 2022-12-29: Fix typo in README
 # 2023-01-09: Add admin customization
 # 2023-01-10: Add user authentication
+# 2023-01-17: Fix typo in README
