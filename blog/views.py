@@ -24,3 +24,4 @@
 # 2022-12-12: Improve homepage UI
 # 2022-12-14: Update requirements.txt
 # 2023-01-13: Improve test coverage
+# 2023-01-17: Add user authentication
