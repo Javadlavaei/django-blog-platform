@@ -24,3 +24,4 @@
 # 2022-12-22: Update requirements.txt
 # 2023-01-11: Fix typo in README
 # 2023-01-16: Fix issue with form validation
+# 2023-01-18: Update urls.py for new routes
