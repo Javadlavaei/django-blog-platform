@@ -25,3 +25,4 @@
 # 2023-01-11: Fix typo in README
 # 2023-01-16: Fix issue with form validation
 # 2023-01-18: Update urls.py for new routes
+# 2023-01-24: Add user authentication
