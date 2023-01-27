@@ -35,3 +35,4 @@
 # 2023-01-10: Add user authentication
 # 2023-01-17: Fix typo in README
 # 2023-01-17: Fix issue with form validation
+# 2023-01-27: Refactor template structure
