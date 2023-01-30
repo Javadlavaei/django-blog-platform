@@ -34,3 +34,4 @@
 # 2023-01-12: Fix bug in comment system
 # 2023-01-13: Add deployment instructions
 # 2023-01-20: Fix typo in README
+# 2023-01-30: Add deployment instructions
