@@ -26,3 +26,4 @@
 # 2023-01-13: Improve test coverage
 # 2023-01-17: Add user authentication
 # 2023-01-19: Update static files
+# 2023-01-31: Refactor template structure
