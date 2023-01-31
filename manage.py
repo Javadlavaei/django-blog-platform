@@ -27,3 +27,4 @@
 # 2023-01-18: Update urls.py for new routes
 # 2023-01-24: Add user authentication
 # 2023-01-25: Improve pagination
+# 2023-01-31: Add admin customization
