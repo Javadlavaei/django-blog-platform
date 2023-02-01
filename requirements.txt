@@ -36,3 +36,4 @@
 # 2023-01-12: Update static files
 # 2023-01-12: Update static files
 # 2023-01-26: Update urls.py for new routes
+# 2023-02-01: Add deployment instructions
