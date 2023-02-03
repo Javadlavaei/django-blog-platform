@@ -39,3 +39,4 @@
 # 2023-02-01: Add deployment instructions
 # 2023-02-01: Add user profile page
 # 2023-02-02: Optimize image upload
+# 2023-02-03: Fix bug in comment system
