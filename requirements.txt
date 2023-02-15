@@ -41,3 +41,4 @@
 # 2023-02-02: Optimize image upload
 # 2023-02-03: Fix bug in comment system
 # 2023-02-07: Add admin customization
+# 2023-02-15: Fix issue with form validation
