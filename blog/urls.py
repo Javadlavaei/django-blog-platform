@@ -36,3 +36,4 @@
 # 2023-01-20: Fix typo in README
 # 2023-01-30: Add deployment instructions
 # 2023-02-08: Refactor template structure
+# 2023-02-17: Add deployment instructions
