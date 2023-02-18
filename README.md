@@ -37,3 +37,4 @@
 # 2023-01-14: Update static files
 # 2023-01-23: Refactor template structure
 # 2023-02-01: Optimize image upload
+# 2023-02-18: Improve pagination
