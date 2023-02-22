@@ -37,3 +37,4 @@
 # 2023-01-17: Fix issue with form validation
 # 2023-01-27: Refactor template structure
 # 2023-02-16: Update requirements.txt
+# 2023-02-22: Update requirements.txt
