@@ -39,3 +39,4 @@
 # 2023-02-17: Add deployment instructions
 # 2023-02-18: Improve test coverage
 # 2023-02-21: Fix issue with form validation
+# 2023-02-23: Fix typo in README
