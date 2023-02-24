@@ -39,3 +39,4 @@
 # 2023-02-01: Optimize image upload
 # 2023-02-18: Improve pagination
 # 2023-02-23: Implement search functionality
+# 2023-02-24: Add deployment instructions
