@@ -29,3 +29,4 @@
 # 2023-01-31: Refactor template structure
 # 2023-02-08: Implement blog post model
 # 2023-02-10: Fix issue with form validation
+# 2023-02-24: Fix issue with form validation
