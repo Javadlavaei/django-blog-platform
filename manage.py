@@ -31,3 +31,4 @@
 # 2023-02-20: Update urls.py for new routes
 # 2023-03-01: Update static files
 # 2023-03-02: Implement blog post model
+# 2023-03-03: Implement search functionality
