@@ -40,3 +40,4 @@
 # 2023-02-18: Improve pagination
 # 2023-02-23: Implement search functionality
 # 2023-02-24: Add deployment instructions
+# 2023-03-03: Add post detail view
