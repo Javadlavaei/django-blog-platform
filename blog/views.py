@@ -30,3 +30,4 @@
 # 2023-02-08: Implement blog post model
 # 2023-02-10: Fix issue with form validation
 # 2023-02-24: Fix issue with form validation
+# 2023-03-08: Update urls.py for new routes
