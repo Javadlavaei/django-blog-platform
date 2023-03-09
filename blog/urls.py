@@ -42,3 +42,4 @@
 # 2023-02-23: Fix typo in README
 # 2023-02-24: Update static files
 # 2023-03-03: Implement search functionality
+# 2023-03-09: Add admin customization
