@@ -33,3 +33,4 @@
 # 2023-03-02: Implement blog post model
 # 2023-03-03: Implement search functionality
 # 2023-03-12: Add admin customization
+# 2023-04-03: Improve homepage UI
