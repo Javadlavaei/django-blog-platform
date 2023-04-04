@@ -31,3 +31,4 @@
 # 2023-02-10: Fix issue with form validation
 # 2023-02-24: Fix issue with form validation
 # 2023-03-08: Update urls.py for new routes
+# 2023-04-04: Optimize image upload
