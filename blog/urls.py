@@ -46,3 +46,4 @@
 # 2023-03-17: Add post detail view
 # 2023-04-05: Add user profile page
 # 2023-04-06: Implement search functionality
+# 2023-04-06: Improve test coverage
