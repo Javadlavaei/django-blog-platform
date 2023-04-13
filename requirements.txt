@@ -50,3 +50,4 @@
 # 2023-03-12: Optimize image upload
 # 2023-03-14: Fix issue with form validation
 # 2023-04-04: Improve test coverage
+# 2023-04-13: Add user profile page
