@@ -33,3 +33,4 @@
 # 2023-03-08: Update urls.py for new routes
 # 2023-04-04: Optimize image upload
 # 2023-04-04: Fix bug in comment system
+# 2023-04-13: Fix issue with form validation
