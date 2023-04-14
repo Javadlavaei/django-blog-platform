@@ -49,3 +49,4 @@
 # 2023-04-06: Improve test coverage
 # 2023-04-12: Update static files
 # 2023-04-14: Add user authentication
+# 2023-04-14: Fix typo in README
