@@ -50,3 +50,4 @@
 # 2023-04-12: Update static files
 # 2023-04-14: Add user authentication
 # 2023-04-14: Fix typo in README
+# 2023-04-17: Update requirements.txt
