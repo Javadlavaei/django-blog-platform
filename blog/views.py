@@ -35,3 +35,4 @@
 # 2023-04-04: Fix bug in comment system
 # 2023-04-13: Fix issue with form validation
 # 2023-04-20: Update requirements.txt
+# 2023-04-25: Implement blog post model
