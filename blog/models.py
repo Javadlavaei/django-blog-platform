@@ -44,3 +44,4 @@
 # 2023-03-17: Refactor template structure
 # 2023-04-17: Improve test coverage
 # 2023-04-19: Fix typo in README
+# 2023-04-28: Improve homepage UI
