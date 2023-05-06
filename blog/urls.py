@@ -53,3 +53,4 @@
 # 2023-04-17: Update requirements.txt
 # 2023-04-24: Add post detail view
 # 2023-05-03: Fix issue with form validation
+# 2023-05-06: Add admin customization
