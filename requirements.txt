@@ -52,3 +52,4 @@
 # 2023-04-04: Improve test coverage
 # 2023-04-13: Add user profile page
 # 2023-05-06: Improve homepage UI
+# 2023-05-08: Refactor template structure
