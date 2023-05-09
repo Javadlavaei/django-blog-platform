@@ -46,3 +46,4 @@
 # 2023-04-27: Add user profile page
 # 2023-05-04: Fix typo in README
 # 2023-05-05: Add deployment instructions
+# 2023-05-09: Fix typo in README
