@@ -46,3 +46,4 @@
 # 2023-04-19: Fix typo in README
 # 2023-04-28: Improve homepage UI
 # 2023-05-02: Add admin customization
+# 2023-05-10: Refactor template structure
