@@ -54,3 +54,4 @@
 # 2023-04-24: Add post detail view
 # 2023-05-03: Fix issue with form validation
 # 2023-05-06: Add admin customization
+# 2023-05-15: Add deployment instructions
