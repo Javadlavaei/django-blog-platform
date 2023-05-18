@@ -35,3 +35,4 @@
 # 2023-03-12: Add admin customization
 # 2023-04-03: Improve homepage UI
 # 2023-05-08: Add deployment instructions
+# 2023-05-18: Add user profile page
