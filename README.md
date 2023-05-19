@@ -48,3 +48,4 @@
 # 2023-05-05: Add deployment instructions
 # 2023-05-09: Fix typo in README
 # 2023-05-17: Update static files
+# 2023-05-19: Improve pagination
