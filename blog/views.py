@@ -36,3 +36,4 @@
 # 2023-04-13: Fix issue with form validation
 # 2023-04-20: Update requirements.txt
 # 2023-04-25: Implement blog post model
+# 2023-05-22: Refactor models.py
