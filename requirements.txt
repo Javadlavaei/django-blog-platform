@@ -54,3 +54,4 @@
 # 2023-05-06: Improve homepage UI
 # 2023-05-08: Refactor template structure
 # 2023-05-12: Add post detail view
+# 2023-05-22: Improve test coverage
