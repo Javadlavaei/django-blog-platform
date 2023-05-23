@@ -56,3 +56,4 @@
 # 2023-05-06: Add admin customization
 # 2023-05-15: Add deployment instructions
 # 2023-05-22: Update static files
+# 2023-05-23: Add user authentication
