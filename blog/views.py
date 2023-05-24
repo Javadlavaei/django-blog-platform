@@ -37,3 +37,4 @@
 # 2023-04-20: Update requirements.txt
 # 2023-04-25: Implement blog post model
 # 2023-05-22: Refactor models.py
+# 2023-05-24: Fix bug in comment system
