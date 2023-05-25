@@ -49,3 +49,4 @@
 # 2023-05-09: Fix typo in README
 # 2023-05-17: Update static files
 # 2023-05-19: Improve pagination
+# 2023-05-25: Add post detail view
