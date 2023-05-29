@@ -50,3 +50,4 @@
 # 2023-05-12: Implement blog post model
 # 2023-05-16: Update urls.py for new routes
 # 2023-05-26: Add post detail view
+# 2023-05-29: Add admin customization
