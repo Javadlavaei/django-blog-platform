@@ -56,3 +56,4 @@
 # 2023-05-12: Add post detail view
 # 2023-05-22: Improve test coverage
 # 2023-05-27: Fix typo in README
+# 2023-05-31: Add deployment instructions
