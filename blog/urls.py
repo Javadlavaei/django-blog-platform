@@ -58,3 +58,4 @@
 # 2023-05-22: Update static files
 # 2023-05-23: Add user authentication
 # 2023-06-05: Implement blog post model
+# 2023-06-06: Fix bug in comment system
