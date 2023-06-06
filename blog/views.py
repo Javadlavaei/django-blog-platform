@@ -40,3 +40,4 @@
 # 2023-05-24: Fix bug in comment system
 # 2023-05-29: Update settings for production
 # 2023-06-01: Refactor models.py
+# 2023-06-06: Improve pagination
