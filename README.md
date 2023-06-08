@@ -51,3 +51,4 @@
 # 2023-05-19: Improve pagination
 # 2023-05-25: Add post detail view
 # 2023-05-31: Improve test coverage
+# 2023-06-08: Optimize image upload
