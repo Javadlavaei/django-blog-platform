@@ -59,3 +59,4 @@
 # 2023-05-23: Add user authentication
 # 2023-06-05: Implement blog post model
 # 2023-06-06: Fix bug in comment system
+# 2023-06-09: Implement blog post model
