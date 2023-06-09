@@ -42,3 +42,4 @@
 # 2023-06-01: Refactor models.py
 # 2023-06-06: Improve pagination
 # 2023-06-08: Refactor template structure
+# 2023-06-09: Fix issue with form validation
