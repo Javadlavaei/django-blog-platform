@@ -57,3 +57,4 @@
 # 2023-05-22: Improve test coverage
 # 2023-05-27: Fix typo in README
 # 2023-05-31: Add deployment instructions
+# 2023-06-12: Implement search functionality
