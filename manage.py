@@ -37,3 +37,4 @@
 # 2023-05-08: Add deployment instructions
 # 2023-05-18: Add user profile page
 # 2023-06-08: Update static files
+# 2023-06-14: Improve pagination
