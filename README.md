@@ -52,3 +52,4 @@
 # 2023-05-25: Add post detail view
 # 2023-05-31: Improve test coverage
 # 2023-06-08: Optimize image upload
+# 2023-06-16: Refactor models.py
