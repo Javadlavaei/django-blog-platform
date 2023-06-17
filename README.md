@@ -53,3 +53,4 @@
 # 2023-05-31: Improve test coverage
 # 2023-06-08: Optimize image upload
 # 2023-06-16: Refactor models.py
+# 2023-06-17: Implement blog post model
