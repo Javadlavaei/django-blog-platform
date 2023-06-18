@@ -53,3 +53,4 @@
 # 2023-05-29: Add admin customization
 # 2023-06-01: Implement search functionality
 # 2023-06-07: Fix typo in README
+# 2023-06-18: Update urls.py for new routes
