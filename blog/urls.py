@@ -60,3 +60,4 @@
 # 2023-06-05: Implement blog post model
 # 2023-06-06: Fix bug in comment system
 # 2023-06-09: Implement blog post model
+# 2023-06-20: Refactor models.py
