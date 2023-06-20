@@ -38,3 +38,4 @@
 # 2023-05-18: Add user profile page
 # 2023-06-08: Update static files
 # 2023-06-14: Improve pagination
+# 2023-06-20: Fix bug in comment system
