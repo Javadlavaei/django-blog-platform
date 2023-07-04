@@ -43,3 +43,4 @@
 # 2023-06-06: Improve pagination
 # 2023-06-08: Refactor template structure
 # 2023-06-09: Fix issue with form validation
+# 2023-07-04: Refactor template structure
