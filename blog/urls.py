@@ -63,3 +63,4 @@
 # 2023-06-20: Refactor models.py
 # 2023-07-03: Fix typo in README
 # 2023-07-04: Add admin customization
+# 2023-07-11: Add admin customization
