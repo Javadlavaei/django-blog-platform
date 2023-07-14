@@ -57,3 +57,4 @@
 # 2023-06-19: Optimize image upload
 # 2023-06-23: Improve homepage UI
 # 2023-07-07: Refactor template structure
+# 2023-07-14: Add deployment instructions
