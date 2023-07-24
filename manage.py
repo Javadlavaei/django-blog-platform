@@ -41,3 +41,4 @@
 # 2023-06-20: Fix bug in comment system
 # 2023-07-17: Add user profile page
 # 2023-07-20: Update static files
+# 2023-07-24: Add post detail view
