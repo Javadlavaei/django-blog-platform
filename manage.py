@@ -42,3 +42,4 @@
 # 2023-07-17: Add user profile page
 # 2023-07-20: Update static files
 # 2023-07-24: Add post detail view
+# 2023-07-25: Fix typo in README
