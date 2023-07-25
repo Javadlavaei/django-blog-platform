@@ -58,3 +58,4 @@
 # 2023-06-21: Add post detail view
 # 2023-07-12: Fix issue with form validation
 # 2023-07-18: Update static files
+# 2023-07-25: Add deployment instructions
