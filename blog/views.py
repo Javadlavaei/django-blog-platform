@@ -46,3 +46,4 @@
 # 2023-07-04: Refactor template structure
 # 2023-07-12: Update requirements.txt
 # 2023-07-27: Optimize image upload
+# 2023-07-31: Fix issue with form validation
