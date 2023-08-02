@@ -60,3 +60,4 @@
 # 2023-07-18: Update static files
 # 2023-07-25: Add deployment instructions
 # 2023-08-02: Add user profile page
+# 2023-08-02: Optimize image upload
