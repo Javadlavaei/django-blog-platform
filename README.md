@@ -60,3 +60,4 @@
 # 2023-07-14: Add deployment instructions
 # 2023-07-21: Improve pagination
 # 2023-07-24: Update urls.py for new routes
+# 2023-08-07: Add user profile page
