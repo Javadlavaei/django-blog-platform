@@ -63,3 +63,4 @@
 # 2023-08-07: Add user profile page
 # 2023-08-08: Update urls.py for new routes
 # 2023-08-09: Fix typo in README
+# 2023-08-09: Add admin customization
