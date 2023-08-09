@@ -45,3 +45,4 @@
 # 2023-07-25: Fix typo in README
 # 2023-07-26: Improve pagination
 # 2023-07-28: Update urls.py for new routes
+# 2023-08-09: Improve pagination
