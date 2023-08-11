@@ -48,3 +48,4 @@
 # 2023-07-27: Optimize image upload
 # 2023-07-31: Fix issue with form validation
 # 2023-08-08: Fix typo in README
+# 2023-08-11: Fix typo in README
