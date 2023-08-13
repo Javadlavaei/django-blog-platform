@@ -67,3 +67,4 @@
 # 2023-07-17: Optimize image upload
 # 2023-08-03: Update requirements.txt
 # 2023-08-10: Add post detail view
+# 2023-08-13: Update requirements.txt
