@@ -62,3 +62,4 @@
 # 2023-08-02: Add user profile page
 # 2023-08-02: Optimize image upload
 # 2023-08-02: Fix typo in README
+# 2023-08-15: Add user authentication
