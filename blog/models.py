@@ -64,3 +64,4 @@
 # 2023-08-02: Fix typo in README
 # 2023-08-15: Add user authentication
 # 2023-08-18: Add post detail view
+# 2023-08-19: Refactor template structure
