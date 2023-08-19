@@ -47,3 +47,4 @@
 # 2023-07-28: Update urls.py for new routes
 # 2023-08-09: Improve pagination
 # 2023-08-18: Add deployment instructions
+# 2023-08-19: Update urls.py for new routes
