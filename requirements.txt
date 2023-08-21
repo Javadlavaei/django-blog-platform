@@ -63,3 +63,4 @@
 # 2023-08-01: Improve homepage UI
 # 2023-08-08: Add deployment instructions
 # 2023-08-10: Update static files
+# 2023-08-21: Update urls.py for new routes
