@@ -49,3 +49,4 @@
 # 2023-08-18: Add deployment instructions
 # 2023-08-19: Update urls.py for new routes
 # 2023-08-22: Improve test coverage
+# 2023-08-24: Implement blog post model
