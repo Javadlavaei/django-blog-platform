@@ -53,3 +53,4 @@
 # 2023-08-17: Add post detail view
 # 2023-08-21: Improve pagination
 # 2023-08-21: Fix bug in comment system
+# 2023-08-24: Fix issue with form validation
