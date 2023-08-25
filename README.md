@@ -67,3 +67,4 @@
 # 2023-08-10: Update settings for production
 # 2023-08-16: Implement blog post model
 # 2023-08-25: Add post detail view
+# 2023-08-25: Improve pagination
