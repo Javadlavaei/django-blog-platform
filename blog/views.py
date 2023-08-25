@@ -54,3 +54,4 @@
 # 2023-08-21: Improve pagination
 # 2023-08-21: Fix bug in comment system
 # 2023-08-24: Fix issue with form validation
+# 2023-08-25: Implement blog post model
