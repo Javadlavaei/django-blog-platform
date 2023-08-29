@@ -66,3 +66,4 @@
 # 2023-08-18: Add post detail view
 # 2023-08-19: Refactor template structure
 # 2023-08-23: Refactor template structure
+# 2023-08-29: Optimize image upload
