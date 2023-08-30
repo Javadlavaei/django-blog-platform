@@ -70,3 +70,4 @@
 # 2023-08-13: Update requirements.txt
 # 2023-08-14: Add admin customization
 # 2023-08-24: Implement search functionality
+# 2023-08-30: Add deployment instructions
