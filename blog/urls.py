@@ -71,3 +71,4 @@
 # 2023-08-14: Add admin customization
 # 2023-08-24: Implement search functionality
 # 2023-08-30: Add deployment instructions
+# 2023-09-05: Add deployment instructions
