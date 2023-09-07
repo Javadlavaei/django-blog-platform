@@ -57,3 +57,4 @@
 # 2023-08-25: Implement blog post model
 # 2023-08-30: Update requirements.txt
 # 2023-08-31: Optimize image upload
+# 2023-09-07: Update urls.py for new routes
