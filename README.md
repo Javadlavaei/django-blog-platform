@@ -68,3 +68,4 @@
 # 2023-08-16: Implement blog post model
 # 2023-08-25: Add post detail view
 # 2023-08-25: Improve pagination
+# 2023-09-09: Fix typo in README
