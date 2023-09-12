@@ -51,3 +51,4 @@
 # 2023-08-22: Improve test coverage
 # 2023-08-24: Implement blog post model
 # 2023-09-12: Fix bug in comment system
+# 2023-09-12: Update urls.py for new routes
