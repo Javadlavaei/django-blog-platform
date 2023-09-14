@@ -65,3 +65,4 @@
 # 2023-08-10: Update static files
 # 2023-08-21: Update urls.py for new routes
 # 2023-09-05: Update settings for production
+# 2023-09-14: Refactor models.py
