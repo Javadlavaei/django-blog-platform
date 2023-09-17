@@ -70,3 +70,4 @@
 # 2023-09-06: Add post detail view
 # 2023-09-08: Add deployment instructions
 # 2023-09-11: Improve homepage UI
+# 2023-09-17: Add admin customization
