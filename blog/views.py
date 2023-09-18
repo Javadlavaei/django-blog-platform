@@ -59,3 +59,4 @@
 # 2023-08-31: Optimize image upload
 # 2023-09-07: Update urls.py for new routes
 # 2023-09-09: Fix issue with form validation
+# 2023-09-18: Improve test coverage
