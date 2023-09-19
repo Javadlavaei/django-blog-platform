@@ -54,3 +54,4 @@
 # 2023-09-12: Update urls.py for new routes
 # 2023-09-13: Update urls.py for new routes
 # 2023-09-14: Fix issue with form validation
+# 2023-09-19: Add post detail view
