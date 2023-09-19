@@ -61,3 +61,4 @@
 # 2023-09-09: Fix issue with form validation
 # 2023-09-18: Improve test coverage
 # 2023-09-19: Add deployment instructions
+# 2023-09-19: Update requirements.txt
