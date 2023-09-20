@@ -72,3 +72,4 @@
 # 2023-09-11: Improve homepage UI
 # 2023-09-17: Add admin customization
 # 2023-09-20: Update urls.py for new routes
+# 2023-09-20: Fix bug in comment system
