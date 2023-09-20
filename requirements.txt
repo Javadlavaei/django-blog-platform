@@ -68,3 +68,4 @@
 # 2023-09-14: Refactor models.py
 # 2023-09-15: Improve homepage UI
 # 2023-09-18: Fix issue with form validation
+# 2023-09-20: Optimize image upload
