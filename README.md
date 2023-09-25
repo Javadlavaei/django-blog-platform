@@ -70,3 +70,4 @@
 # 2023-08-25: Improve pagination
 # 2023-09-09: Fix typo in README
 # 2023-09-13: Add user profile page
+# 2023-09-25: Improve pagination
