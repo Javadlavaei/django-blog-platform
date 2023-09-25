@@ -74,3 +74,4 @@
 # 2023-09-05: Add deployment instructions
 # 2023-09-08: Add user authentication
 # 2023-09-22: Fix bug in comment system
+# 2023-09-25: Implement blog post model
