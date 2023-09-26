@@ -56,3 +56,4 @@
 # 2023-09-14: Fix issue with form validation
 # 2023-09-19: Add post detail view
 # 2023-09-20: Fix bug in comment system
+# 2023-09-26: Refactor models.py
