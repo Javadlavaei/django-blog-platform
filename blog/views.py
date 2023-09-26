@@ -62,3 +62,4 @@
 # 2023-09-18: Improve test coverage
 # 2023-09-19: Add deployment instructions
 # 2023-09-19: Update requirements.txt
+# 2023-09-26: Add deployment instructions
