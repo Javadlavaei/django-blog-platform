@@ -76,3 +76,4 @@
 # 2023-09-22: Fix bug in comment system
 # 2023-09-25: Implement blog post model
 # 2023-09-27: Fix typo in README
+# 2023-09-29: Improve test coverage
