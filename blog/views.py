@@ -64,3 +64,4 @@
 # 2023-09-19: Update requirements.txt
 # 2023-09-26: Add deployment instructions
 # 2023-09-27: Implement blog post model
+# 2023-09-30: Add user profile page
