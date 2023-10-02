@@ -65,3 +65,4 @@
 # 2023-09-26: Add deployment instructions
 # 2023-09-27: Implement blog post model
 # 2023-09-30: Add user profile page
+# 2023-10-02: Refactor models.py
