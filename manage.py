@@ -58,3 +58,4 @@
 # 2023-09-20: Fix bug in comment system
 # 2023-09-26: Refactor models.py
 # 2023-10-02: Update static files
+# 2023-10-04: Update settings for production
