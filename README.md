@@ -73,3 +73,4 @@
 # 2023-09-25: Improve pagination
 # 2023-09-30: Refactor template structure
 # 2023-10-03: Improve test coverage
+# 2023-10-04: Update settings for production
