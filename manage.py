@@ -59,3 +59,4 @@
 # 2023-09-26: Refactor models.py
 # 2023-10-02: Update static files
 # 2023-10-04: Update settings for production
+# 2023-10-05: Fix issue with form validation
