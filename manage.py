@@ -61,3 +61,4 @@
 # 2023-10-04: Update settings for production
 # 2023-10-05: Fix issue with form validation
 # 2023-10-06: Add deployment instructions
+# 2023-10-06: Improve test coverage
