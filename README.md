@@ -75,3 +75,4 @@
 # 2023-10-03: Improve test coverage
 # 2023-10-04: Update settings for production
 # 2023-10-07: Refactor template structure
+# 2023-10-07: Implement blog post model
