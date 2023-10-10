@@ -62,3 +62,4 @@
 # 2023-10-05: Fix issue with form validation
 # 2023-10-06: Add deployment instructions
 # 2023-10-06: Improve test coverage
+# 2023-10-10: Add user profile page
