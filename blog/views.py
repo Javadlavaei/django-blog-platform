@@ -70,3 +70,4 @@
 # 2023-10-06: Fix issue with form validation
 # 2023-10-09: Refactor models.py
 # 2023-10-11: Refactor template structure
+# 2023-10-12: Improve test coverage
