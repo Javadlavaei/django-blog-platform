@@ -75,3 +75,4 @@
 # 2023-09-20: Fix bug in comment system
 # 2023-09-25: Update urls.py for new routes
 # 2023-10-07: Refactor template structure
+# 2023-10-14: Update settings for production
