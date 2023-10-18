@@ -65,3 +65,4 @@
 # 2023-10-10: Add user profile page
 # 2023-10-11: Add post detail view
 # 2023-10-12: Fix bug in comment system
+# 2023-10-18: Implement search functionality
