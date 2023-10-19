@@ -66,3 +66,4 @@
 # 2023-10-11: Add post detail view
 # 2023-10-12: Fix bug in comment system
 # 2023-10-18: Implement search functionality
+# 2023-10-19: Update urls.py for new routes
