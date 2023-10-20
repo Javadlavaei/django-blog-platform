@@ -81,3 +81,4 @@
 # 2023-10-13: Add user profile page
 # 2023-10-13: Improve test coverage
 # 2023-10-17: Implement search functionality
+# 2023-10-20: Update requirements.txt
