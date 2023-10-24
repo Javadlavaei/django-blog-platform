@@ -74,3 +74,4 @@
 # 2023-10-14: Add user authentication
 # 2023-10-16: Fix typo in README
 # 2023-10-24: Add post detail view
+# 2023-10-24: Fix issue with form validation
