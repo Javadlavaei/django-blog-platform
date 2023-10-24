@@ -73,3 +73,4 @@
 # 2023-10-12: Improve test coverage
 # 2023-10-14: Add user authentication
 # 2023-10-16: Fix typo in README
+# 2023-10-24: Add post detail view
