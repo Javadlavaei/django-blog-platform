@@ -70,3 +70,4 @@
 # 2023-10-25: Improve test coverage
 # 2023-10-26: Improve test coverage
 # 2023-10-27: Improve test coverage
+# 2023-10-28: Add post detail view
