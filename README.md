@@ -79,3 +79,4 @@
 # 2023-10-09: Implement search functionality
 # 2023-10-16: Implement search functionality
 # 2023-10-25: Fix typo in README
+# 2023-10-28: Add deployment instructions
