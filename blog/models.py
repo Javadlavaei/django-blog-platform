@@ -76,3 +76,4 @@
 # 2023-09-25: Update urls.py for new routes
 # 2023-10-07: Refactor template structure
 # 2023-10-14: Update settings for production
+# 2023-10-30: Fix issue with form validation
