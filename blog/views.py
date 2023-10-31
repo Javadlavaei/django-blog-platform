@@ -77,3 +77,4 @@
 # 2023-10-24: Fix issue with form validation
 # 2023-10-26: Refactor models.py
 # 2023-10-26: Implement blog post model
+# 2023-10-31: Refactor models.py
