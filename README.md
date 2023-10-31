@@ -81,3 +81,4 @@
 # 2023-10-25: Fix typo in README
 # 2023-10-28: Add deployment instructions
 # 2023-10-31: Update static files
+# 2023-10-31: Update settings for production
