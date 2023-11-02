@@ -82,3 +82,4 @@
 # 2023-10-28: Add deployment instructions
 # 2023-10-31: Update static files
 # 2023-10-31: Update settings for production
+# 2023-11-02: Improve test coverage
