@@ -84,3 +84,4 @@
 # 2023-10-20: Update requirements.txt
 # 2023-10-28: Optimize image upload
 # 2023-11-02: Implement search functionality
+# 2023-11-06: Refactor template structure
