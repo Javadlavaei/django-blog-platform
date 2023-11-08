@@ -71,3 +71,4 @@
 # 2023-10-26: Improve test coverage
 # 2023-10-27: Improve test coverage
 # 2023-10-28: Add post detail view
+# 2023-11-08: Add admin customization
