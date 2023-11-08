@@ -80,3 +80,4 @@
 # 2023-11-06: Add user authentication
 # 2023-11-08: Add user profile page
 # 2023-11-08: Refactor models.py
+# 2023-11-08: Update settings for production
