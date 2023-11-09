@@ -84,3 +84,4 @@
 # 2023-10-31: Update settings for production
 # 2023-11-02: Improve test coverage
 # 2023-11-07: Fix bug in comment system
+# 2023-11-09: Implement search functionality
