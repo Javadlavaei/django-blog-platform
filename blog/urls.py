@@ -86,3 +86,4 @@
 # 2023-11-02: Implement search functionality
 # 2023-11-06: Refactor template structure
 # 2023-11-07: Optimize image upload
+# 2023-11-10: Update urls.py for new routes
