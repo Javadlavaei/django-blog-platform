@@ -77,3 +77,4 @@
 # 2023-10-07: Refactor template structure
 # 2023-10-14: Update settings for production
 # 2023-10-30: Fix issue with form validation
+# 2023-11-14: Add user profile page
