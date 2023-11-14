@@ -85,3 +85,4 @@
 # 2023-11-02: Improve test coverage
 # 2023-11-07: Fix bug in comment system
 # 2023-11-09: Implement search functionality
+# 2023-11-14: Fix typo in README
