@@ -80,3 +80,4 @@
 # 2023-10-31: Refactor models.py
 # 2023-11-02: Update requirements.txt
 # 2023-11-11: Improve pagination
+# 2023-11-17: Refactor template structure
