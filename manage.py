@@ -74,3 +74,4 @@
 # 2023-11-08: Add admin customization
 # 2023-11-14: Update urls.py for new routes
 # 2023-11-17: Update requirements.txt
+# 2023-11-17: Refactor models.py
