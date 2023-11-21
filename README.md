@@ -87,3 +87,4 @@
 # 2023-11-09: Implement search functionality
 # 2023-11-14: Fix typo in README
 # 2023-11-15: Update requirements.txt
+# 2023-11-21: Fix bug in comment system
