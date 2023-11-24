@@ -90,3 +90,4 @@
 # 2023-11-21: Fix bug in comment system
 # 2023-11-23: Add user profile page
 # 2023-11-23: Add user authentication
+# 2023-11-24: Update urls.py for new routes
