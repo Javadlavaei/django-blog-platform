@@ -82,3 +82,4 @@
 # 2023-11-08: Refactor models.py
 # 2023-11-08: Update settings for production
 # 2023-11-09: Optimize image upload
+# 2023-11-24: Update urls.py for new routes
