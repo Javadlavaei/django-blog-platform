@@ -82,3 +82,4 @@
 # 2023-11-11: Improve pagination
 # 2023-11-17: Refactor template structure
 # 2023-11-22: Implement search functionality
+# 2023-11-24: Update requirements.txt
