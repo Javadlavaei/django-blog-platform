@@ -87,3 +87,4 @@
 # 2023-11-06: Refactor template structure
 # 2023-11-07: Optimize image upload
 # 2023-11-10: Update urls.py for new routes
+# 2023-11-27: Improve test coverage
