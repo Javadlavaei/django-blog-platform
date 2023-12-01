@@ -84,3 +84,4 @@
 # 2023-11-09: Optimize image upload
 # 2023-11-24: Update urls.py for new routes
 # 2023-11-30: Improve pagination
+# 2023-12-01: Improve pagination
