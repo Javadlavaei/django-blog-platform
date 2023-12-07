@@ -84,3 +84,4 @@
 # 2023-11-22: Implement search functionality
 # 2023-11-24: Update requirements.txt
 # 2023-11-30: Update settings for production
+# 2023-12-07: Improve test coverage
