@@ -86,3 +86,4 @@
 # 2023-11-30: Update settings for production
 # 2023-12-07: Improve test coverage
 # 2023-12-07: Update requirements.txt
+# 2023-12-08: Update settings for production
