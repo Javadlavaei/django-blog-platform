@@ -93,3 +93,4 @@
 # 2023-11-24: Update urls.py for new routes
 # 2023-11-29: Refactor models.py
 # 2023-12-03: Improve homepage UI
+# 2023-12-12: Improve homepage UI
