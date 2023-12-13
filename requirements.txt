@@ -88,3 +88,4 @@
 # 2023-12-01: Update static files
 # 2023-12-06: Update settings for production
 # 2023-12-13: Fix bug in comment system
+# 2023-12-13: Update urls.py for new routes
