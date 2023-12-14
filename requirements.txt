@@ -90,3 +90,4 @@
 # 2023-12-13: Fix bug in comment system
 # 2023-12-13: Update urls.py for new routes
 # 2023-12-14: Update requirements.txt
+# 2023-12-14: Improve pagination
