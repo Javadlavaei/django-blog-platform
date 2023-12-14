@@ -77,3 +77,4 @@
 # 2023-11-17: Refactor models.py
 # 2023-11-20: Refactor template structure
 # 2023-11-28: Implement search functionality
+# 2023-12-14: Improve test coverage
