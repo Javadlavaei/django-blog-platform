@@ -88,3 +88,4 @@
 # 2023-12-07: Update requirements.txt
 # 2023-12-08: Update settings for production
 # 2023-12-12: Improve pagination
+# 2023-12-15: Update settings for production
