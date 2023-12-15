@@ -90,3 +90,4 @@
 # 2023-11-27: Improve test coverage
 # 2023-12-12: Add user profile page
 # 2023-12-12: Refactor models.py
+# 2023-12-15: Fix bug in comment system
