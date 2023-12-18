@@ -80,3 +80,4 @@
 # 2023-12-14: Improve test coverage
 # 2023-12-15: Improve pagination
 # 2023-12-15: Update urls.py for new routes
+# 2023-12-18: Add user profile page
