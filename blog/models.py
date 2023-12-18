@@ -79,3 +79,4 @@
 # 2023-10-30: Fix issue with form validation
 # 2023-11-14: Add user profile page
 # 2023-11-20: Improve pagination
+# 2023-12-18: Update requirements.txt
