@@ -80,3 +80,4 @@
 # 2023-11-14: Add user profile page
 # 2023-11-20: Improve pagination
 # 2023-12-18: Update requirements.txt
+# 2023-12-19: Update urls.py for new routes
