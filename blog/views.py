@@ -90,3 +90,4 @@
 # 2023-12-12: Improve pagination
 # 2023-12-15: Update settings for production
 # 2023-12-19: Add user authentication
+# 2023-12-20: Fix typo in README
