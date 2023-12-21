@@ -81,3 +81,4 @@
 # 2023-11-20: Improve pagination
 # 2023-12-18: Update requirements.txt
 # 2023-12-19: Update urls.py for new routes
+# 2023-12-21: Add post detail view
