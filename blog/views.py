@@ -92,3 +92,4 @@
 # 2023-12-19: Add user authentication
 # 2023-12-20: Fix typo in README
 # 2023-12-21: Update urls.py for new routes
+# 2023-12-26: Add deployment instructions
