@@ -92,3 +92,4 @@
 # 2023-12-14: Update requirements.txt
 # 2023-12-14: Improve pagination
 # 2023-12-22: Add user profile page
+# 2023-12-26: Implement blog post model
