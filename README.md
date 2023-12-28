@@ -95,3 +95,4 @@
 # 2023-12-03: Improve homepage UI
 # 2023-12-12: Improve homepage UI
 # 2023-12-14: Implement search functionality
+# 2023-12-28: Fix bug in comment system
