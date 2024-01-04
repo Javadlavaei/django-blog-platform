@@ -82,3 +82,4 @@
 # 2023-12-15: Update urls.py for new routes
 # 2023-12-18: Add user profile page
 # 2023-12-19: Add deployment instructions
+# 2024-01-04: Implement blog post model
