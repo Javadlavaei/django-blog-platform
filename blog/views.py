@@ -94,3 +94,4 @@
 # 2023-12-21: Update urls.py for new routes
 # 2023-12-26: Add deployment instructions
 # 2024-01-04: Add post detail view
+# 2024-01-04: Update static files
