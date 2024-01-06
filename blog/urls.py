@@ -96,3 +96,4 @@
 # 2023-12-22: Fix bug in comment system
 # 2023-12-25: Implement blog post model
 # 2023-12-27: Add post detail view
+# 2024-01-06: Improve pagination
