@@ -97,3 +97,4 @@
 # 2024-01-09: Improve pagination
 # 2024-01-09: Refactor models.py
 # 2024-01-10: Update requirements.txt
+# 2024-01-11: Add user authentication
