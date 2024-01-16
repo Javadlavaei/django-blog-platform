@@ -96,3 +96,4 @@
 # 2024-01-04: Add post detail view
 # 2024-01-04: Update static files
 # 2024-01-11: Add admin customization
+# 2024-01-16: Add user authentication
