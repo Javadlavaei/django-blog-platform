@@ -99,3 +99,4 @@
 # 2024-01-06: Improve pagination
 # 2024-01-08: Add user profile page
 # 2024-01-08: Add post detail view
+# 2024-01-18: Update static files
