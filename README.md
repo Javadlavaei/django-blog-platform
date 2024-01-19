@@ -98,3 +98,4 @@
 # 2023-12-28: Fix bug in comment system
 # 2024-01-18: Improve homepage UI
 # 2024-01-19: Add user profile page
+# 2024-01-19: Update requirements.txt
