@@ -85,3 +85,4 @@
 # 2024-01-12: Optimize image upload
 # 2024-01-14: Add user profile page
 # 2024-01-19: Update settings for production
+# 2024-01-19: Improve test coverage
