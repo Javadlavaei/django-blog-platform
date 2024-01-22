@@ -99,3 +99,4 @@
 # 2024-01-16: Add user authentication
 # 2024-01-17: Add user profile page
 # 2024-01-22: Update static files
+# 2024-01-22: Add admin customization
