@@ -99,3 +99,4 @@
 # 2024-01-18: Improve homepage UI
 # 2024-01-19: Add user profile page
 # 2024-01-19: Update requirements.txt
+# 2024-01-22: Refactor models.py
