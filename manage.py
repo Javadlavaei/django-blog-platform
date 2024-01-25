@@ -87,3 +87,4 @@
 # 2024-01-17: Update requirements.txt
 # 2024-01-22: Implement search functionality
 # 2024-01-23: Update settings for production
+# 2024-01-25: Add post detail view
