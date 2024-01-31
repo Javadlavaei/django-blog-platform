@@ -88,3 +88,4 @@
 # 2024-01-22: Implement search functionality
 # 2024-01-23: Update settings for production
 # 2024-01-25: Add post detail view
+# 2024-01-31: Refactor models.py
