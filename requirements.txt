@@ -100,3 +100,4 @@
 # 2024-01-11: Add user authentication
 # 2024-01-11: Update settings for production
 # 2024-01-17: Add user profile page
+# 2024-02-01: Update static files
