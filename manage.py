@@ -89,3 +89,4 @@
 # 2024-01-23: Update settings for production
 # 2024-01-25: Add post detail view
 # 2024-01-31: Refactor models.py
+# 2024-02-01: Add admin customization
