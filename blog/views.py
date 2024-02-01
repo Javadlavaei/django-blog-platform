@@ -100,3 +100,4 @@
 # 2024-01-17: Add user profile page
 # 2024-01-22: Update static files
 # 2024-01-22: Add admin customization
+# 2024-02-01: Add post detail view
