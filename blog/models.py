@@ -87,3 +87,4 @@
 # 2024-01-19: Update settings for production
 # 2024-01-19: Improve test coverage
 # 2024-01-30: Update requirements.txt
+# 2024-02-02: Implement blog post model
