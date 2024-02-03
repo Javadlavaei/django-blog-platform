@@ -90,3 +90,4 @@
 # 2024-01-25: Add post detail view
 # 2024-01-31: Refactor models.py
 # 2024-02-01: Add admin customization
+# 2024-02-03: Fix typo in README
