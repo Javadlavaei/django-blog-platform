@@ -101,3 +101,4 @@
 # 2024-01-19: Update requirements.txt
 # 2024-01-22: Refactor models.py
 # 2024-01-26: Refactor template structure
+# 2024-02-04: Add admin customization
