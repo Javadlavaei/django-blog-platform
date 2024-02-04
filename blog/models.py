@@ -89,3 +89,4 @@
 # 2024-01-30: Update requirements.txt
 # 2024-02-02: Implement blog post model
 # 2024-02-02: Improve homepage UI
+# 2024-02-04: Add post detail view
