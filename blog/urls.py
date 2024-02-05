@@ -101,3 +101,4 @@
 # 2024-01-08: Add post detail view
 # 2024-01-18: Update static files
 # 2024-02-03: Fix issue with form validation
+# 2024-02-05: Implement blog post model
