@@ -92,3 +92,4 @@
 # 2024-02-04: Add post detail view
 # 2024-02-05: Fix issue with form validation
 # 2024-02-07: Refactor template structure
+# 2024-02-07: Refactor template structure
