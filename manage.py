@@ -92,3 +92,4 @@
 # 2024-02-01: Add admin customization
 # 2024-02-03: Fix typo in README
 # 2024-02-06: Add post detail view
+# 2024-02-08: Update settings for production
