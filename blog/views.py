@@ -102,3 +102,4 @@
 # 2024-01-22: Add admin customization
 # 2024-02-01: Add post detail view
 # 2024-02-02: Refactor models.py
+# 2024-02-09: Update requirements.txt
