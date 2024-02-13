@@ -102,3 +102,4 @@
 # 2024-01-17: Add user profile page
 # 2024-02-01: Update static files
 # 2024-02-07: Fix issue with form validation
+# 2024-02-13: Add post detail view
