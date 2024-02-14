@@ -103,3 +103,4 @@
 # 2024-02-03: Fix issue with form validation
 # 2024-02-05: Implement blog post model
 # 2024-02-07: Add admin customization
+# 2024-02-14: Update requirements.txt
