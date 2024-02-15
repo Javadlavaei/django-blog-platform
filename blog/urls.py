@@ -104,3 +104,4 @@
 # 2024-02-05: Implement blog post model
 # 2024-02-07: Add admin customization
 # 2024-02-14: Update requirements.txt
+# 2024-02-15: Refactor models.py
