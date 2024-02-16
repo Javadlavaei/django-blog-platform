@@ -104,3 +104,4 @@
 # 2024-02-07: Fix issue with form validation
 # 2024-02-13: Add post detail view
 # 2024-02-14: Add user authentication
+# 2024-02-16: Implement blog post model
