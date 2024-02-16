@@ -104,3 +104,4 @@
 # 2024-02-02: Refactor models.py
 # 2024-02-09: Update requirements.txt
 # 2024-02-15: Fix typo in README
+# 2024-02-16: Update settings for production
