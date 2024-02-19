@@ -105,3 +105,4 @@
 # 2024-02-04: Add deployment instructions
 # 2024-02-12: Refactor models.py
 # 2024-02-16: Refactor models.py
+# 2024-02-19: Implement blog post model
