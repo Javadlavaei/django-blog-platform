@@ -107,3 +107,4 @@
 # 2024-02-15: Refactor models.py
 # 2024-02-21: Add post detail view
 # 2024-02-21: Improve pagination
+# 2024-02-22: Optimize image upload
