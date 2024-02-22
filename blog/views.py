@@ -105,3 +105,4 @@
 # 2024-02-09: Update requirements.txt
 # 2024-02-15: Fix typo in README
 # 2024-02-16: Update settings for production
+# 2024-02-22: Update static files
