@@ -95,3 +95,4 @@
 # 2024-02-08: Update settings for production
 # 2024-02-19: Add post detail view
 # 2024-02-22: Improve pagination
+# 2024-02-23: Update requirements.txt
