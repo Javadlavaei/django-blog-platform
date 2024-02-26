@@ -108,3 +108,4 @@
 # 2024-02-22: Update static files
 # 2024-02-26: Refactor models.py
 # 2024-02-26: Add user profile page
+# 2024-02-26: Optimize image upload
