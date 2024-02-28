@@ -94,3 +94,4 @@
 # 2024-02-07: Refactor template structure
 # 2024-02-07: Refactor template structure
 # 2024-02-12: Add deployment instructions
+# 2024-02-28: Optimize image upload
