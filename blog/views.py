@@ -110,3 +110,4 @@
 # 2024-02-26: Add user profile page
 # 2024-02-26: Optimize image upload
 # 2024-02-29: Add user authentication
+# 2024-03-01: Update settings for production
