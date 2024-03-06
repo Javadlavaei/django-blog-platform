@@ -112,3 +112,4 @@
 # 2024-02-29: Add user authentication
 # 2024-03-01: Update settings for production
 # 2024-03-01: Update requirements.txt
+# 2024-03-06: Improve pagination
