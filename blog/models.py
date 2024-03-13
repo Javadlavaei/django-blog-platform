@@ -99,3 +99,4 @@
 # 2024-03-04: Add admin customization
 # 2024-03-05: Fix typo in README
 # 2024-03-06: Update static files
+# 2024-03-13: Update static files
