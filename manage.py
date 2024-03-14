@@ -99,3 +99,4 @@
 # 2024-02-27: Add user profile page
 # 2024-03-08: Update settings for production
 # 2024-03-11: Update static files
+# 2024-03-14: Add admin customization
