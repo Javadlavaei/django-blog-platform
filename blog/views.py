@@ -114,3 +114,4 @@
 # 2024-03-01: Update requirements.txt
 # 2024-03-06: Improve pagination
 # 2024-03-08: Update static files
+# 2024-03-15: Optimize image upload
