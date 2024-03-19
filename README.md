@@ -109,3 +109,4 @@
 # 2024-02-29: Update settings for production
 # 2024-03-13: Add admin customization
 # 2024-03-18: Fix issue with form validation
+# 2024-03-19: Add user profile page
