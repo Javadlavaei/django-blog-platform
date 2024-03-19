@@ -110,3 +110,4 @@
 # 2024-03-13: Add admin customization
 # 2024-03-18: Fix issue with form validation
 # 2024-03-19: Add user profile page
+# 2024-03-19: Add post detail view
