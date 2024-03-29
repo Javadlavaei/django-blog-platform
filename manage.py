@@ -101,3 +101,4 @@
 # 2024-03-11: Update static files
 # 2024-03-14: Add admin customization
 # 2024-03-17: Add post detail view
+# 2024-03-29: Update settings for production
