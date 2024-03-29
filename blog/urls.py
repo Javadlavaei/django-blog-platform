@@ -108,3 +108,4 @@
 # 2024-02-21: Add post detail view
 # 2024-02-21: Improve pagination
 # 2024-02-22: Optimize image upload
+# 2024-03-29: Update settings for production
