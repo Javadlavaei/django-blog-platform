@@ -110,3 +110,4 @@
 # 2024-02-22: Optimize image upload
 # 2024-03-29: Update settings for production
 # 2024-03-29: Fix issue with form validation
+# 2024-04-01: Improve pagination
