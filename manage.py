@@ -102,3 +102,4 @@
 # 2024-03-14: Add admin customization
 # 2024-03-17: Add post detail view
 # 2024-03-29: Update settings for production
+# 2024-04-03: Fix bug in comment system
