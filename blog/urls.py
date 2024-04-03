@@ -111,3 +111,4 @@
 # 2024-03-29: Update settings for production
 # 2024-03-29: Fix issue with form validation
 # 2024-04-01: Improve pagination
+# 2024-04-03: Add post detail view
