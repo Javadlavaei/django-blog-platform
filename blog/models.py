@@ -102,3 +102,4 @@
 # 2024-03-13: Update static files
 # 2024-03-18: Improve test coverage
 # 2024-03-19: Refactor template structure
+# 2024-04-09: Add user authentication
