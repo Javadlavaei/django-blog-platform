@@ -115,3 +115,4 @@
 # 2024-03-06: Improve pagination
 # 2024-03-08: Update static files
 # 2024-03-15: Optimize image upload
+# 2024-04-10: Implement search functionality
