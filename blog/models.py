@@ -104,3 +104,4 @@
 # 2024-03-19: Refactor template structure
 # 2024-04-09: Add user authentication
 # 2024-04-09: Update urls.py for new routes
+# 2024-04-11: Improve pagination
