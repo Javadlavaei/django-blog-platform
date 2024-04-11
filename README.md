@@ -112,3 +112,4 @@
 # 2024-03-19: Add user profile page
 # 2024-03-19: Add post detail view
 # 2024-03-19: Fix issue with form validation
+# 2024-04-11: Implement blog post model
