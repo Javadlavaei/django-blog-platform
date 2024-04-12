@@ -113,3 +113,4 @@
 # 2024-04-01: Improve pagination
 # 2024-04-03: Add post detail view
 # 2024-04-10: Update static files
+# 2024-04-12: Update urls.py for new routes
