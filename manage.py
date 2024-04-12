@@ -104,3 +104,4 @@
 # 2024-03-29: Update settings for production
 # 2024-04-03: Fix bug in comment system
 # 2024-04-08: Fix typo in README
+# 2024-04-12: Add post detail view
