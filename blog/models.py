@@ -105,3 +105,4 @@
 # 2024-04-09: Add user authentication
 # 2024-04-09: Update urls.py for new routes
 # 2024-04-11: Improve pagination
+# 2024-04-15: Add user profile page
