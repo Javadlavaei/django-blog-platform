@@ -116,3 +116,4 @@
 # 2024-04-12: Update urls.py for new routes
 # 2024-04-12: Add user authentication
 # 2024-04-15: Optimize image upload
+# 2024-04-16: Improve homepage UI
