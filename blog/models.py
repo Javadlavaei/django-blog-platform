@@ -107,3 +107,4 @@
 # 2024-04-11: Improve pagination
 # 2024-04-15: Add user profile page
 # 2024-04-18: Improve test coverage
+# 2024-04-19: Improve homepage UI
