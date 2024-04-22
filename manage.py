@@ -106,3 +106,4 @@
 # 2024-04-08: Fix typo in README
 # 2024-04-12: Add post detail view
 # 2024-04-19: Improve test coverage
+# 2024-04-22: Fix issue with form validation
