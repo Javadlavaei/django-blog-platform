@@ -117,3 +117,4 @@
 # 2024-03-15: Optimize image upload
 # 2024-04-10: Implement search functionality
 # 2024-04-17: Update static files
+# 2024-04-22: Fix issue with form validation
