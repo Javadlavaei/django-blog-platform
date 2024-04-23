@@ -115,3 +115,4 @@
 # 2024-04-11: Implement blog post model
 # 2024-04-14: Add deployment instructions
 # 2024-04-19: Fix bug in comment system
+# 2024-04-23: Fix typo in README
