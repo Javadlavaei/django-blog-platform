@@ -118,3 +118,4 @@
 # 2024-04-10: Implement search functionality
 # 2024-04-17: Update static files
 # 2024-04-22: Fix issue with form validation
+# 2024-04-25: Improve test coverage
