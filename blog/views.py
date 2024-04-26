@@ -119,3 +119,4 @@
 # 2024-04-17: Update static files
 # 2024-04-22: Fix issue with form validation
 # 2024-04-25: Improve test coverage
+# 2024-04-26: Improve test coverage
