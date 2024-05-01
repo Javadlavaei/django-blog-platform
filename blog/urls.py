@@ -119,3 +119,4 @@
 # 2024-04-16: Improve homepage UI
 # 2024-04-18: Optimize image upload
 # 2024-04-25: Add admin customization
+# 2024-05-01: Update settings for production
