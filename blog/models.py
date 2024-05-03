@@ -108,3 +108,4 @@
 # 2024-04-15: Add user profile page
 # 2024-04-18: Improve test coverage
 # 2024-04-19: Improve homepage UI
+# 2024-05-03: Add admin customization
