@@ -122,3 +122,4 @@
 # 2024-04-26: Improve test coverage
 # 2024-05-01: Update urls.py for new routes
 # 2024-05-03: Update requirements.txt
+# 2024-05-05: Add deployment instructions
