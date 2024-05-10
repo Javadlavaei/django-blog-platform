@@ -118,3 +118,4 @@
 # 2024-04-23: Fix typo in README
 # 2024-04-29: Add admin customization
 # 2024-05-02: Improve test coverage
+# 2024-05-10: Add user authentication
