@@ -119,3 +119,4 @@
 # 2024-04-29: Add admin customization
 # 2024-05-02: Improve test coverage
 # 2024-05-10: Add user authentication
+# 2024-05-13: Refactor template structure
