@@ -107,3 +107,4 @@
 # 2024-04-12: Add post detail view
 # 2024-04-19: Improve test coverage
 # 2024-04-22: Fix issue with form validation
+# 2024-05-14: Add deployment instructions
