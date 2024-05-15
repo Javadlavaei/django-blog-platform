@@ -122,3 +122,4 @@
 # 2024-05-01: Update settings for production
 # 2024-05-02: Improve homepage UI
 # 2024-05-06: Update static files
+# 2024-05-15: Refactor template structure
