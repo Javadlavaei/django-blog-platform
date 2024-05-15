@@ -108,3 +108,4 @@
 # 2024-04-19: Improve test coverage
 # 2024-04-22: Fix issue with form validation
 # 2024-05-14: Add deployment instructions
+# 2024-05-15: Add user authentication
