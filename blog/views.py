@@ -124,3 +124,4 @@
 # 2024-05-03: Update requirements.txt
 # 2024-05-05: Add deployment instructions
 # 2024-05-15: Improve homepage UI
+# 2024-05-17: Add deployment instructions
