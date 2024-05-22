@@ -114,3 +114,4 @@
 # 2024-05-01: Implement search functionality
 # 2024-05-05: Fix bug in comment system
 # 2024-05-16: Improve test coverage
+# 2024-05-22: Update urls.py for new routes
