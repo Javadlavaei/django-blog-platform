@@ -128,3 +128,4 @@
 # 2024-05-20: Improve homepage UI
 # 2024-05-20: Optimize image upload
 # 2024-05-21: Improve homepage UI
+# 2024-05-26: Add admin customization
