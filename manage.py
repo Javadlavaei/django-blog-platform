@@ -111,3 +111,4 @@
 # 2024-05-15: Add user authentication
 # 2024-05-22: Fix typo in README
 # 2024-05-24: Update static files
+# 2024-05-26: Update urls.py for new routes
