@@ -109,3 +109,4 @@
 # 2024-04-18: Improve test coverage
 # 2024-04-19: Improve homepage UI
 # 2024-05-03: Add admin customization
+# 2024-05-27: Add deployment instructions
