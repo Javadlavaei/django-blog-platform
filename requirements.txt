@@ -116,3 +116,4 @@
 # 2024-05-16: Improve test coverage
 # 2024-05-22: Update urls.py for new routes
 # 2024-05-26: Improve test coverage
+# 2024-05-31: Fix issue with form validation
