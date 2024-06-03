@@ -111,3 +111,4 @@
 # 2024-05-03: Add admin customization
 # 2024-05-27: Add deployment instructions
 # 2024-05-27: Add post detail view
+# 2024-06-03: Improve test coverage
