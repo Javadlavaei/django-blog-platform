@@ -112,3 +112,4 @@
 # 2024-05-22: Fix typo in README
 # 2024-05-24: Update static files
 # 2024-05-26: Update urls.py for new routes
+# 2024-06-04: Update urls.py for new routes
