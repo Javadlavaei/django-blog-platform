@@ -113,3 +113,4 @@
 # 2024-05-24: Update static files
 # 2024-05-26: Update urls.py for new routes
 # 2024-06-04: Update urls.py for new routes
+# 2024-06-05: Add user profile page
