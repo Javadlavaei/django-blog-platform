@@ -114,3 +114,4 @@
 # 2024-05-26: Update urls.py for new routes
 # 2024-06-04: Update urls.py for new routes
 # 2024-06-05: Add user profile page
+# 2024-06-07: Improve pagination
