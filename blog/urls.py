@@ -126,3 +126,4 @@
 # 2024-05-21: Fix typo in README
 # 2024-05-22: Add admin customization
 # 2024-06-07: Improve test coverage
+# 2024-06-09: Update urls.py for new routes
