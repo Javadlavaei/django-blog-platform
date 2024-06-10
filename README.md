@@ -124,3 +124,4 @@
 # 2024-05-17: Update settings for production
 # 2024-05-21: Improve pagination
 # 2024-05-24: Implement search functionality
+# 2024-06-10: Improve test coverage
