@@ -131,3 +131,4 @@
 # 2024-05-26: Add admin customization
 # 2024-05-29: Refactor template structure
 # 2024-06-07: Optimize image upload
+# 2024-06-11: Optimize image upload
