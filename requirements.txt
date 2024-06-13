@@ -118,3 +118,4 @@
 # 2024-05-26: Improve test coverage
 # 2024-05-31: Fix issue with form validation
 # 2024-06-06: Fix issue with form validation
+# 2024-06-13: Add user profile page
