@@ -133,3 +133,4 @@
 # 2024-06-07: Optimize image upload
 # 2024-06-11: Optimize image upload
 # 2024-06-12: Improve pagination
+# 2024-06-17: Fix bug in comment system
