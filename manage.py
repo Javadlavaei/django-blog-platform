@@ -117,3 +117,4 @@
 # 2024-06-07: Improve pagination
 # 2024-06-09: Update requirements.txt
 # 2024-06-10: Fix issue with form validation
+# 2024-06-18: Add deployment instructions
