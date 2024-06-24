@@ -114,3 +114,4 @@
 # 2024-06-03: Improve test coverage
 # 2024-06-07: Refactor template structure
 # 2024-06-17: Fix typo in README
+# 2024-06-24: Add admin customization
