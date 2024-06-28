@@ -136,3 +136,4 @@
 # 2024-06-17: Fix bug in comment system
 # 2024-06-18: Add user authentication
 # 2024-06-28: Add user authentication
+# 2024-06-28: Implement blog post model
