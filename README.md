@@ -127,3 +127,4 @@
 # 2024-06-10: Improve test coverage
 # 2024-06-25: Update requirements.txt
 # 2024-06-29: Implement blog post model
+# 2024-06-29: Fix issue with form validation
