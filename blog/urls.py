@@ -128,3 +128,4 @@
 # 2024-06-07: Improve test coverage
 # 2024-06-09: Update urls.py for new routes
 # 2024-06-13: Improve pagination
+# 2024-07-02: Improve pagination
