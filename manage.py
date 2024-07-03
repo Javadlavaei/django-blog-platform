@@ -120,3 +120,4 @@
 # 2024-06-18: Add deployment instructions
 # 2024-06-24: Optimize image upload
 # 2024-07-01: Optimize image upload
+# 2024-07-03: Update settings for production
