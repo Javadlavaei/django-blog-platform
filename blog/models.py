@@ -118,3 +118,4 @@
 # 2024-06-24: Add post detail view
 # 2024-06-26: Update requirements.txt
 # 2024-07-01: Improve pagination
+# 2024-07-09: Optimize image upload
