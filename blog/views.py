@@ -139,3 +139,4 @@
 # 2024-06-28: Implement blog post model
 # 2024-07-05: Update static files
 # 2024-07-05: Fix typo in README
+# 2024-07-10: Implement search functionality
