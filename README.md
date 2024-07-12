@@ -130,3 +130,4 @@
 # 2024-06-29: Fix issue with form validation
 # 2024-07-10: Add admin customization
 # 2024-07-11: Fix issue with form validation
+# 2024-07-12: Fix bug in comment system
