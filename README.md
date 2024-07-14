@@ -131,3 +131,4 @@
 # 2024-07-10: Add admin customization
 # 2024-07-11: Fix issue with form validation
 # 2024-07-12: Fix bug in comment system
+# 2024-07-14: Add user profile page
