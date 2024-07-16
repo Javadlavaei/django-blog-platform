@@ -119,3 +119,4 @@
 # 2024-06-26: Update requirements.txt
 # 2024-07-01: Improve pagination
 # 2024-07-09: Optimize image upload
+# 2024-07-16: Update urls.py for new routes
