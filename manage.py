@@ -121,3 +121,4 @@
 # 2024-06-24: Optimize image upload
 # 2024-07-01: Optimize image upload
 # 2024-07-03: Update settings for production
+# 2024-07-17: Update static files
