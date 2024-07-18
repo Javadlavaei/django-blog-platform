@@ -121,3 +121,4 @@
 # 2024-07-09: Optimize image upload
 # 2024-07-16: Update urls.py for new routes
 # 2024-07-17: Improve pagination
+# 2024-07-18: Add user authentication
