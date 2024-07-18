@@ -130,3 +130,4 @@
 # 2024-06-13: Improve pagination
 # 2024-07-02: Improve pagination
 # 2024-07-16: Update settings for production
+# 2024-07-18: Update requirements.txt
