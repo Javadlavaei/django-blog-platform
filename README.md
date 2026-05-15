@@ -30,7 +30,7 @@ cd django-blog-platform
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
-
+```
 ## Project Goal
 
 This project was created as part of my learning and open-source development journey focused on Python, Django, backend development, and AI-related technologies.
